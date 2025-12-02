@@ -6,8 +6,6 @@ public class Main {
 
         } else if (value == "Dominic") {
 
-        } else if (value == "Kevin") {
-
         }
 
         switch (value) {
