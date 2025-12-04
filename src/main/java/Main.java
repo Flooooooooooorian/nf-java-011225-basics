@@ -26,5 +26,25 @@ public class Main {
         System.out.println(myValue.isBlank());
         System.out.println(myValue.isEmpty());
 
+
+        for (int i = 0; i < 10; i++) {
+
+        }
+
+        String[] strings = {"A", "B", "C"};
+        for (String element : strings) {
+
+        }
+
+        boolean isRunning = true;
+        while (isRunning) {
+            isRunning = false;
+        }
+
+    }
+
+
+    public static int add(int a, int b) {
+        return a + b;
     }
 }
